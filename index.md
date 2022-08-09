@@ -26,5 +26,5 @@ In order to apply, sent a short letter of interest specifying your motivation fo
 
 **Organizers**
  
-- Dr. Demival Vasques Filho [(Google Scholar)](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)
-- Dr. Cindarella Petz [(Google Scholar)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=tCmBIasAAAAJ)
+- Dr. Demival Vasques Filho ([Google Scholar](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1))
+- Dr. Cindarella Petz ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=tCmBIasAAAAJ))
