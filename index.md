@@ -9,12 +9,12 @@ Our keynote speaker Prof. Dr. David Zbíral (Masaryk University) will elaborate 
 
 **Syllabus**
 
-–	Fundamentals of social network analysis<br>
-–	Network theories<br>
-–	Epistemic approaches of network research & network visualization<br>
-–	Network models<br>
-–	History of network research<br>
-–	Critical perspectives<br>
+- Fundamentals of social network analysis
+- Network theories
+- Epistemic approaches of network research & network visualization<br>
+- Network models
+- History of network research
+- Critical perspectives<br>
 
 **How to apply**
 
@@ -24,6 +24,7 @@ The winter school is designed as hands-on sessions with tutoring (virtual; worki
 Admission is possible until **September 30, 2022**. 
 In order to apply, sent a short letter of interest specifying your motivation for attending this school (1/2 page max) with the subject “HNR winter school” to <a href = "mailto: digital@ieg-mainz.de">digital@ieg-mainz.de</a>. Further queries can be sent to <a href = "mailto: vasquesfilho@ieg-mainz.de">vasquesfilho@ieg-mainz.de</a> and <a href = "mailto: petz@ieg-mainz.de">petz@ieg-mainz.de</a>. 
 
-
- **Organizers**
- Dr. Demival Vasques Filho [Google Scholar](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1) and Dr. Cindarella Petz [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=tCmBIasAAAAJ)
+**Organizers**
+ 
+- Dr. Demival Vasques Filho [(Google Scholar)](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)
+- Dr. Cindarella Petz [(Google Scholar)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=tCmBIasAAAAJ)
