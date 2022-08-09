@@ -14,7 +14,7 @@ Our keynote speaker Prof. Dr. David Zbíral (Masaryk University) will elaborate 
 - Epistemic approaches of network research & network visualization<br>
 - Network models
 - History of network research
-- Critical perspectives<br>
+- Critical perspectives
 
 **How to apply**
 
@@ -22,6 +22,7 @@ For the winter school, a familiarity with the basics of Python is required. Befo
 
 The winter school is designed as hands-on sessions with tutoring (virtual; working language in English), therefore we can only admit up to 25 participants. The winter school is free of charge. 
 Admission is possible until **September 30, 2022**.
+
 In order to apply, sent a short letter of interest specifying your motivation for attending this school (1/2 page max) with the subject “HNR winter school” to <a href = "mailto: digital@ieg-mainz.de">digital@ieg-mainz.de</a>. Further queries can be sent to <a href = "mailto: vasquesfilho@ieg-mainz.de">vasquesfilho@ieg-mainz.de</a> and <a href = "mailto: petz@ieg-mainz.de">petz@ieg-mainz.de</a>. 
 
 **Organizers**
