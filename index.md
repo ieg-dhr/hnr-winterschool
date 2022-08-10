@@ -13,7 +13,7 @@ Day 1 (9:00 - 12:00 and 14:00 - 17:00 UTC/GMT+1):
 - Fundamentals of social network analysis
 - Conceptualizing a network research design
 
-Day 2 (9:00 - 12:00 and 14:00 - 16:30 MESZ):
+Day 2 (9:00 - 12:00 and 14:00 - 16:30 UTC/GMT+1):
 - History of network research
 - Network theories
 - Network visualization
