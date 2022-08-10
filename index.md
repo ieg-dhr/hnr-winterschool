@@ -11,7 +11,8 @@ Our keynote speaker Prof. Dr. David Zbíral (Masaryk University) will elaborate 
 
 - Fundamentals of social network analysis  
 - Network theories  
-- Epistemic approaches of network research & network visualization  
+- Epistemic approaches of network research
+- Network visualization  
 - Network models  
 - History of network research  
 - Critical perspectives  
