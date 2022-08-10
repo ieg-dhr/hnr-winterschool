@@ -9,23 +9,23 @@ Our keynote speaker Prof. Dr. David Zbíral (Masaryk University) will elaborate 
 
 **Syllabus**
 
-Day 1 (9:00 - 12:00 and 14:00 - 17:00 UTC/GMT+1):
+Day 1 (9:00 - 12:00 and 14:00 - 17:00 CET):
 - Fundamentals of social network analysis
 - Conceptualizing a network research design
 
-Day 2 (9:00 - 12:00 and 14:00 - 16:30 UTC/GMT+1):
+Day 2 (9:00 - 12:00 and 14:00 - 16:30 CET):
 - History of network research
 - Network theories
 - Network visualization
 
-Public Keynote (17:00 - 18:30 UTC/GMT+1)
+Public Keynote (17:00 - 18:30 CET)
 
-Day 3 (9:00 - 12:00 and 14:00 - 17:00 UTC/GMT+1):
+Day 3 (9:00 - 12:00 and 14:00 - 17:00 CET):
 - Network models and dynamics
 - Epistemological implications of networks
 - Mentoring and free exercises
 
-Day 4 (9:00 - 12:00 UTC/GMT+1)
+Day 4 (9:00 - 12:00 CET)
 - Wrap up and critical perspectives  
 
 **How to apply**
