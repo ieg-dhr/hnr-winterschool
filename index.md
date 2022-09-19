@@ -4,19 +4,19 @@
 
 **Monday, November 28 - Thursday, December 1, 2022**
 
-This winter school is designed to provide a guide for graduate students and early career researchers interested in the study of social networks with a special focus on historical research questions. This four day course will cover a range of sessions, offering hands-on exercises in Python using Jupyter Notebooks, and providing room for discussing your own datasets.
+This (fully online) winter school is designed to provide a guide for graduate students and early career researchers interested in the study of social networks with a special focus on historical research questions. This four day course will cover a range of sessions, offering hands-on exercises in Python using Jupyter Notebooks, and providing room for discussing your own datasets.
 Our keynote speaker Prof. Dr. David Zbíral (Masaryk University) will elaborate on his work on the [DISSINET](https://dissinet.cz/) project.
 
 **Syllabus**
 
 Day 1 (9:00 - 12:00 and 14:00 - 17:00 CET):
 - Fundamentals of social network analysis
-- Conceptualizing a network research design
+- Conceptualizing a network research design (with Dr. Henrike Rudolph)
 
 Day 2 (9:00 - 12:00 and 14:00 - 16:30 CET):
 - History of network research
 - Network theories
-- Network visualization
+- Network visualization (with Dr. Martin Gradjean)
 
 Public Keynote (17:00 - 18:30 CET)
 
