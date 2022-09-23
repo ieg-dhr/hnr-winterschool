@@ -11,12 +11,12 @@ Our keynote speaker Prof. Dr. David Zbíral (Masaryk University) will elaborate 
 
 Day 1 (9:00 - 12:00 and 14:00 - 17:00 CET):
 - Fundamentals of social network analysis
-- Conceptualizing a network research design (with Dr. Henrike Rudolph)
+- Conceptualizing a network research design (with [Dr. Henrike Rudolph](https://www.sinologie-goettingen.de/seminar/person/dr-henrike-rudolph/))
 
 Day 2 (9:00 - 12:00 and 14:00 - 16:30 CET):
 - History of network research
 - Network theories
-- Network visualization (with Dr. Martin Gradjean)
+- Network visualization (with [Dr. Martin Grandjean](http://www.martingrandjean.ch/))
 
 Public Keynote (17:00 - 18:30 CET)
 
